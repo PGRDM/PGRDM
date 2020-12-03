@@ -29,12 +29,12 @@
     
     .nav__li:hover > a {
     
-        color: #CCC;
+        color: rgb(177, 238, 236);
     }
     
     .nav__li:hover {
     
-        color: rgb(169, 187, 165);
+        color: rgb(177, 238, 236);
         transition: 0.2s;
      
     
@@ -111,18 +111,19 @@
       
           } 
     
+        
           .containerForm{
 
             text-align: center;
             font-family: 'Secular One', sans-serif;
             border-style: solid;
-            border-color: rgb(118, 131, 124);
+            border-color: rgb(154, 207, 179);
           }
-
+        
           .containerButton{
-
+        
             position: relative;
             margin-top: 50px;
-          }
+          }  
 
          
