@@ -1,0 +1,17 @@
+{
+  "name": "portal-mapaton",
+  "version": "1.0.0",
+  "description": "Mapaton",
+  "main": "main.js",
+  "dependencies": {
+    "brain.js": "^2.0.0-beta.2",
+    "libsvm-js": "^0.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}

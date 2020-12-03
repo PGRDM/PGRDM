@@ -1,0 +1,340 @@
+﻿{
+    "datos": [
+        {
+            "pendiente": "50.7",
+            "ndvi": "0.522",
+            "TWI": "4.584",
+            "elevacion": "1037",
+            "suceptibilidad": "2.687"
+        },
+        {
+            "pendiente": "11.3",
+            "ndvi": "0.6939",
+            "TWI": "7.194",
+            "elevacion": "1004",
+            "suceptibilidad": "2.4"
+        },
+        {
+            "pendiente": "17.7",
+            "ndvi": "0.1075",
+            "TWI": "6.204",
+            "elevacion": "663",
+            "suceptibilidad": "3.363"
+        },
+        {
+            "pendiente": "16.7",
+            "ndvi": "0.2803",
+            "TWI": "4.371",
+            "elevacion": "668",
+            "suceptibilidad": "3.354"
+        },
+        {
+            "pendiente": "15.6",
+            "ndvi": "0.1238",
+            "TWI": "7.491",
+            "elevacion": "664",
+            "suceptibilidad": "3"
+        },
+        {
+            "pendiente": "16.7",
+            "ndvi": "0.5176",
+            "TWI": "5.319",
+            "elevacion": "915",
+            "suceptibilidad": "2.553"
+        },
+        {
+            "pendiente": "32.6",
+            "ndvi": "0.0997",
+            "TWI": "7.667",
+            "elevacion": "680",
+            "suceptibilidad": "2.81"
+        },
+        {
+            "pendiente": "25.6",
+            "ndvi": "0.1204",
+            "TWI": "5.531",
+            "elevacion": "686",
+            "suceptibilidad": "2.753"
+        },
+        {
+            "pendiente": "16.7",
+            "ndvi": "0.1363",
+            "TWI": "3.606",
+            "elevacion": "683",
+            "suceptibilidad": "3.444"
+        },
+        {
+            "pendiente": "23.7",
+            "ndvi": "0.134",
+            "TWI": "5.259",
+            "elevacion": "647",
+            "suceptibilidad": "3.268"
+        },
+        {
+            "pendiente": "11.3",
+            "ndvi": "0.2405",
+            "TWI": "4.741",
+            "elevacion": "617",
+            "suceptibilidad": "2.322"
+        },
+        {
+            "pendiente": "16.7",
+            "ndvi": "0.4057",
+            "TWI": "6.363",
+            "elevacion": "614",
+            "suceptibilidad": "2.265"
+        },
+        {
+            "pendiente": "4.6",
+            "ndvi": "0.6173",
+            "TWI": "12.766",
+            "elevacion": "593",
+            "suceptibilidad": "1.875"
+        },
+        {
+            "pendiente": "22.8",
+            "ndvi": "0.1209",
+            "TWI": "6.145",
+            "elevacion": "625",
+            "suceptibilidad": "2.527"
+        },
+        {
+            "pendiente": "10.2",
+            "ndvi": "0.138",
+            "TWI": "4.526",
+            "elevacion": "640",
+            "suceptibilidad": "2.191"
+        },
+        {
+            "pendiente": "31",
+            "ndvi": "0.364",
+            "TWI": "5.15",
+            "elevacion": "1117",
+            "suceptibilidad": "2.857"
+        },
+        {
+            "pendiente": "17.7",
+            "ndvi": "0.1814",
+            "TWI": "5.987",
+            "elevacion": "656",
+            "suceptibilidad": "2.526"
+        },
+        {
+            "pendiente": "6.8",
+            "ndvi": "0.2761",
+            "TWI": "4.528",
+            "elevacion": "1079",
+            "suceptibilidad": "2.637"
+        },
+        {
+            "pendiente": "14.6",
+            "ndvi": "0.187",
+            "TWI": "4.514",
+            "elevacion": "883",
+            "suceptibilidad": "2.81"
+        },
+        {
+            "pendiente": "10.2",
+            "ndvi": "0.1927",
+            "TWI": "5.889",
+            "elevacion": "656",
+            "suceptibilidad": "1.972"
+        },
+        {
+            "pendiente": "6.8",
+            "ndvi": "0.3199",
+            "TWI": "5.329",
+            "elevacion": "715",
+            "suceptibilidad": "2.181"
+        },
+        {
+            "pendiente": "9.1",
+            "ndvi": "0.5059",
+            "TWI": "4.474",
+            "elevacion": "714",
+            "suceptibilidad": "1.992"
+        },
+        {
+            "pendiente": "8",
+            "ndvi": "0.4514",
+            "TWI": "5.789",
+            "elevacion": "705",
+            "suceptibilidad": "1.86"
+        },
+        {
+            "pendiente": "6.8",
+            "ndvi": "0.3889",
+            "TWI": "6.7",
+            "elevacion": "691",
+            "suceptibilidad": "1.92"
+        },
+        {
+            "pendiente": "10.2",
+            "ndvi": "0.4027",
+            "TWI": "5.272",
+            "elevacion": "685",
+            "suceptibilidad": "2.1"
+        },
+        {
+            "pendiente": "24.7",
+            "ndvi": "0.3057",
+            "TWI": "5.65",
+            "elevacion": "649",
+            "suceptibilidad": "2.58"
+        },
+        {
+            "pendiente": "12.4",
+            "ndvi": "0.4762",
+            "TWI": "5.374",
+            "elevacion": "673",
+            "suceptibilidad": "2.112"
+        },
+        {
+            "pendiente": "6.8",
+            "ndvi": "0.3359",
+            "TWI": "5.86",
+            "elevacion": "688",
+            "suceptibilidad": "2.382"
+        },
+        {
+            "pendiente": "6.8",
+            "ndvi": "0.6307",
+            "TWI": "8.038",
+            "elevacion": "727",
+            "suceptibilidad": "2.606"
+        },
+        {
+            "pendiente": "11.3",
+            "ndvi": "0.2681",
+            "TWI": "5.767",
+            "elevacion": "704",
+            "suceptibilidad": "2.571"
+        },
+        {
+            "pendiente": "10.2",
+            "ndvi": "0.5544",
+            "TWI": "5.892",
+            "elevacion": "686",
+            "suceptibilidad": "2.538"
+        },
+        {
+            "pendiente": "11.3",
+            "ndvi": "0.4422",
+            "TWI": "4.286",
+            "elevacion": "661",
+            "suceptibilidad": "2.01"
+        },
+        {
+            "pendiente": "11.3",
+            "ndvi": "0.4412",
+            "TWI": "5.927",
+            "elevacion": "639",
+            "suceptibilidad": "2.239"
+        },
+        {
+            "pendiente": "8",
+            "ndvi": "0.3945",
+            "TWI": "5.107",
+            "elevacion": "599",
+            "suceptibilidad": "2.24"
+        },
+        {
+            "pendiente": "16.7",
+            "ndvi": "0.3381",
+            "TWI": "6.488",
+            "elevacion": "650",
+            "suceptibilidad": "2.45"
+        },
+        {
+            "pendiente": "13.5",
+            "ndvi": "0.1648",
+            "TWI": "4.364",
+            "elevacion": "653",
+            "suceptibilidad": "2.268"
+        },
+        {
+            "pendiente": "17.7",
+            "ndvi": "0.3963",
+            "TWI": "4.62",
+            "elevacion": "657",
+            "suceptibilidad": "2.549"
+        },
+        {
+            "pendiente": "8",
+            "ndvi": "0.206",
+            "TWI": "5.661",
+            "elevacion": "650",
+            "suceptibilidad": "1.903"
+        },
+        {
+            "pendiente": "10.2",
+            "ndvi": "0.2505",
+            "TWI": "3.918",
+            "elevacion": "646",
+            "suceptibilidad": "2.326"
+        },
+        {
+            "pendiente": "17.7",
+            "ndvi": "0.3831",
+            "TWI": "4.043",
+            "elevacion": "670",
+            "suceptibilidad": "2.51"
+        },
+        {
+            "pendiente": "17.7",
+            "ndvi": "0.1122",
+            "TWI": "3.016",
+            "elevacion": "641",
+            "suceptibilidad": "3.39"
+        },
+        {
+            "pendiente": "23.7",
+            "ndvi": "0.1992",
+            "TWI": "6.681",
+            "elevacion": "624",
+            "suceptibilidad": "3.168"
+        },
+        {
+            "pendiente": "12.4",
+            "ndvi": "0.1817",
+            "TWI": "6.719",
+            "elevacion": "621",
+            "suceptibilidad": "3.444"
+        },
+        {
+            "pendiente": "9.1",
+            "ndvi": "0.1341",
+            "TWI": "6.94",
+            "elevacion": "628",
+            "suceptibilidad": "2.91"
+        },
+        {
+            "pendiente": "26.6",
+            "ndvi": "0.3317",
+            "TWI": "7.302",
+            "elevacion": "561",
+            "suceptibilidad": "3.64"
+        },
+        {
+            "pendiente": "18.8",
+            "ndvi": "0.1288",
+            "TWI": "3.893",
+            "elevacion": "570",
+            "suceptibilidad": "3.433"
+        },
+        {
+            "pendiente": "8",
+            "ndvi": "0.0954",
+            "TWI": "5.015",
+            "elevacion": "630",
+            "suceptibilidad": "3"
+        },
+        {
+            "pendiente": "14.6",
+            "ndvi": "0.4238",
+            "TWI": "4.549",
+            "elevacion": "627",
+            "suceptibilidad": "3.313"
+        }
+    ]
+}

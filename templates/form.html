@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no" />
+    <title>Portal Monitoreo Suceptibilidad</title>
+    <script src="https://kit.fontawesome.com/c0075b8700.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://js.arcgis.com/4.17/esri/themes/light/main.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Secular+One&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="estilo.css">
+   
+
+    
+
+    
+
+</head>
+<body>
+
+  
+
+  <header class="Menu">
+
+
+  </header>
+
+
+  <h2 id="titulo2">BIENVENIDO A LA CALCULADORA DE SUSCEPTIBILIDAD</h2>
+
+
+
+  <div class="containerForm">
+
+    <form id="calcForm" method="POST">
+
+        <label for="ndvi">NDVI:</label><br>
+        <input  type="number" step="any" id="ndvi" name="ndvi"><br>
+        <label for="twi">TWI:</label><br>
+        <input  type="number" step="any" id="twi" name="twi"><br>
+        <label for="slope">SLOPE:</label><br>
+        <input  type="number" step="any" id="slope" name="slope"><br>
+        <label for="dem">DEM:</label><br>
+        <input type="number" step="any" id="dem" name="dem"><br>
+       <div class="containerButton">
+        <input type="submit" id="send-data" name="send" value="Registrar" />
+        
+ 
+    </div>  
+
+
+    </form>
+
+    <h3 id="val"></label><br> </h3>
+
+    
+</div>
+
+<script src="main.js"></script>
+</body>
+
+
+</html>
